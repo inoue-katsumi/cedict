@@ -16,4 +16,3 @@ bash script for creating single chinese character(hanzi,单汉字) pronunciation
 ## cedict_pinyin_single.tsv:
 
 Generated list from 2020 April version of cedict.
-
